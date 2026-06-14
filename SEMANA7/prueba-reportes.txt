@@ -1,0 +1,5 @@
+Cuando se envía un reporte mediante la ruta POST /reportes, el servidor guarda la información
+ en el array llamado reportes. Al consultar la ruta GET /reportes, el sistema devuelve una lista 
+ con todos los reportes registrados hasta ese momento. Cada reporte incluye un identificador (id),
+  el tipo de reporte y su descripción. De esta manera es posible registrar y consultar información 
+  utilizando una API sencilla desarrollada con Express.
