@@ -1,0 +1,9 @@
+Es importante que las plataformas tecnológicas puedan recibir información de los ciudadanos 
+de forma estructurada porque facilita el procesamiento y análisis de los datos. Cuando la información 
+se organiza correctamente, las entidades pueden identificar problemas con mayor rapidez. Además, 
+permite almacenar los reportes de manera ordenada y evitar errores en la interpretación de los datos. 
+Las plataformas digitales también mejoran la comunicación entre la comunidad y las instituciones. 
+Gracias a los formularios y al formato JSON, la información puede enviarse de forma clara y eficiente.
+ Esto ayuda a tomar decisiones basadas en datos reales. También permite realizar seguimiento a las 
+ solicitudes realizadas por los ciudadanos. De esta manera se fortalece la participación ciudadana y
+  se mejora la gestión de los servicios comunitarios.
